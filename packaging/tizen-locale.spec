@@ -14,7 +14,7 @@ Source99: LICENSES
 BuildRequires: tzdata >= 2003a
 Requires: coreutils
 Requires: tzdata
-Requires: glibc-common
+#Requires: glibc-common
 
 %description
 carring locale information for tizen platform
